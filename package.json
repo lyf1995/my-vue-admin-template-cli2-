@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "element-ui": "^2.8.2",
     "js-cookie": "^2.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "sass-loader": "^7.1.0",
